@@ -1,7 +1,7 @@
 {
   "name": "zenchron",
   "version": "0.0.1",
-  "homepage": "https://github.com/Xreej4n/X-Code-DPSRPK-Submission",
+  "homepage": "https://Xreej4n.github.io/X-Code-DPSRPK-Submission",
   "scripts": {
     "start": "vite",
     "build": "vite build",
